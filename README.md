@@ -5,5 +5,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+   https://marvellous-ux.github.io/github-final-project/
    
 # github-final-project
